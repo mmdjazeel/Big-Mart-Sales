@@ -1,4 +1,4 @@
-# Gig-Mart-Sales
+# Big-Mart-Sales
 Big Mart sales Practice problems
 
 A practice problem from Analytics Vidhya on Regression.
